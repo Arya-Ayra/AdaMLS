@@ -96,5 +96,5 @@ To facilitate the process of adaptation we run a MAPE-K loop. This loop involves
 ![Utility](https://github.com/karthikv1392/ArchML/blob/main/Results/Utility.png)
 
 #### In terms of efficiency, AdaMLS incurs more model switch instances (308 vs 49), as illustrated in figure below:
-![Switching]([https://github.com/Arya-Ayra/AdaMLS/blob/main/Results/Switching.png](https://github.com/Arya-Ayra/AdaMLS/blob/main/Results/Switching.png))
+![Switching](https://github.com/Arya-Ayra/AdaMLS/blob/main/Results/Switching.png)
 
